@@ -9,7 +9,7 @@
 
 **Skin Cancer Classification** is a deep learning–based medical imaging project built with **PyTorch** to automatically classify multiple types of skin lesions from dermatoscopic images. The system leverages **Convolutional Neural Networks (CNNs)**, advanced **data augmentation**, and **Grad-CAM interpretability techniques** to provide accurate predictions and visual explanations of diagnostic regions.
 
-> 📊 **Achieved 81% validation accuracy** through hyperparameter tuning and data augmentation.
+> 📊 **Achieved 81% validation accuracy.**
 
 ---
 
@@ -72,12 +72,4 @@
 4. **Evaluation & Interpretation**
    - Generate predictions on unseen data  
    - Apply Grad-CAM to visualize activation maps  
-   - Overlay heatmaps on original images  
-
----
-
-## 🎯 Goals
-
-- Automate early detection of skin cancer using deep learning  
-- Improve robustness through augmentation & tuning  
-- Enhance trust in AI predictions via interpretability  
+   - Overlay heatmaps on original images
