@@ -7,7 +7,7 @@
 [![Notebook](https://img.shields.io/badge/Developed%20on-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Dataset](https://img.shields.io/badge/Dataset-10K%2B%20Dermatoscopic%20Images-brightgreen?style=for-the-badge&logo=databricks)]()
 
-**Skin Cancer Classification** is a deep learning–based medical imaging project built with **PyTorch** to automatically classify multiple types of skin lesions from dermatoscopic images. The system leverages **Convolutional Neural Networks (CNNs)**, advanced **data augmentation**, and **Grad-CAM interpretability techniques** to provide accurate predictions and visual explanations of diagnostic regions.
+**Skin Cancer Classification** is a deep learning–based system built with **Python** and **PyTorch** to automatically identify multiple skin lesion types from a **10K+ dermatoscopic image dataset**. It incorporates **data augmentation**, **hyperparameter tuning**, and **Grad-CAM visualizations** to improve model robustness and provide interpretable insights into diagnostic regions influencing predictions.
 
 > 📊 **Achieved 81% validation accuracy.**
 
