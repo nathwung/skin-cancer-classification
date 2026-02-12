@@ -76,4 +76,4 @@
 
 ## 🔗 Links
 
-- 💻 **GitHub Repository**: [Skin Cancer Classification](https://github.com/nathwung/the-daily-commute)
+- 💻 **GitHub Repository**: [Skin Cancer Classification](https://github.com/nathwung/skin-cancer-classification)
