@@ -74,6 +74,8 @@
    - Apply Grad-CAM to visualize activation maps  
    - Overlay heatmaps on original images
 
+---
+
 ## 🔗 Links
 
 - 💻 **GitHub Repository**: [Skin Cancer Classification](https://github.com/nathwung/skin-cancer-classification)
